@@ -7718,6 +7718,7 @@ button.close {
 
 .desktop-h ul li {
   border-right: 2px solid white;
+  border-bottom-right-radius: 20px;
 }
 
 .desktop-h ul li:last-child {
@@ -14990,12 +14991,12 @@ header .navbar-fixed .desktop-h ul {
   display: flex;
   justify-content: space-evenly;
   flex-flow: row;
-  border-bottom: 3px solid #222;
+  border-top: 3px solid #222;
   margin-top: -61px;
 }
 
 header .navbar-fixed .desktop-h ul li {
-  border-right: 2px solid #222;
+  border-right: 5px solid #222;
 }
 
 header .navbar-fixed .desktop-h ul li:last-child {
@@ -15011,7 +15012,7 @@ header .navbar-fixed .desktop-h ul a.d-nav {
 
 header .navbar-fixed .desktop-h ul a.d-nav:hover {
 
-  color: #010101;
+  color: #fdd700;
 
 }
 
@@ -15597,6 +15598,8 @@ li a:hover::after {
   display: flex;
   justify-content: center;
   width: 150px;
+  left: 44%;
+  bottom: 0;
   position: absolute;
   bottom: 0;
   color: black;
