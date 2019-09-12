@@ -4095,8 +4095,11 @@ var closeB = $('.close-btn');
 closeB.click(function () {
   let divToClose = $('#mbl-nav');
 
-  divToClose.css("opacity ", '0');
+  $(divToClose).css("opacity ", "0");
 });
+
+
+
 const heading = 'Memnun Müşteriler & Kalıcı Dostluklar';
 let i = 0;
 
@@ -4196,13 +4199,7 @@ $(document).ready(function () {
 
 });
 
-let mN = $('.m-nav');
 
-mN.click(function (e) {
-
-
-
-});
 
 $(document).on('click', 'a[href^="#"]', function (event) {
 
@@ -4252,4 +4249,13 @@ cake.click(function () {
     icing.removeClass('active');
   }
 
+});
+var sigImg = $('#signiture').find('img');
+var sigNum = 0;
+$(window).scroll(function () {
+  if ($('#signiture').offset().top < $(window).scrollTop()) {
+    sigNum++;
+    $(sigImg.get(0)).css("marginTop", (sigNum * 5));
+    $(sigImg.get(1)).css("bottom", (sigNum * 40));
+  }
 });

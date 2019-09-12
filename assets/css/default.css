@@ -85,6 +85,8 @@ body {
   outline: 0 !important;
 }
 
+
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -14895,6 +14897,15 @@ header .navbar ul {
     transition: transform ease-out .2s;
   }
 
+  header .navbar ul li:last-child {
+    text-decoration: none;
+    text-align: center;
+  }
+
+  textarea {
+    resize: vertical !important;
+  }
+
   header .navbar ul li {
     text-decoration: underline;
     transition: ease-in;
@@ -15289,6 +15300,7 @@ ul li ul {
   padding-right: 1rem;
 }
 
+
 .card-wrapper .font-face:hover .font-back {
   top: 0;
 }
@@ -15330,11 +15342,13 @@ ul li ul {
   transition: all ease-in-out 1s;
   background-color: #efefef;
   position: absolute;
-  top: -111%;
+  top: -150%;
   left: 0;
+  overflow: auto;
   height: 100%;
   width: 100%;
 }
+
 
 .item img {
   width: 100%;
@@ -15661,7 +15675,17 @@ li a:hover::after {
 }
 
 ul {
-  margin-top: 1rem;
+  margin-top: .8rem;
+}
+
+.divider {
+  height: 4px;
+  width: 100%;
+  background-color: #222;
+}
+
+.card-wrapper .font-back ul {
+  margin-top: .4rem;
 }
 
 #hizmetlerimiz ul li {
@@ -16425,6 +16449,7 @@ Demo purposes only
     display: none;
   }
 
+
   .card-wrapper {
     overflow: auto;
     margin-top: 1rem;
@@ -16456,4 +16481,33 @@ Demo purposes only
 
 body {
   transition: all ease-out .3s;
+}
+
+#signiture {
+  display: block;
+  width: 100%;
+  height: 1200px;
+  background-color: #222;
+  position: relative;
+  background-attachment: scroll;
+  overflow: hidden;
+}
+
+#signiture img {
+  margin: auto;
+  transition: all ease-in .3s;
+}
+
+#signiture #parallax-i-2 {
+  width: initial;
+  position: relative;
+}
+
+.signiture-text {
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  font-size: 50px;
+  transform: translateX(-50%);
+  top: 17%;
 }
