@@ -4140,7 +4140,7 @@ $('.arr-container').animate({
 
 
 
-let form = $('fieldset').click(function () {
+let formfield = $('fieldset').click(function () {
 
   let label = $(this).children();
   let labelStyle = label[0];

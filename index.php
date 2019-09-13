@@ -1367,7 +1367,8 @@
 
                                                 </h4>
                                                 <p>
-                                                    Kullanım Yeri | BETON, GAZBETON, TUĞLA VB. YÜZEYLERE ALÇI PLAKA YAPIŞTIRILMASINDA KULLANILAN ALÇIDIR.
+                                                    Kullanım Yeri | BETON, GAZBETON, TUĞLA VB. YÜZEYLERE ALÇI PLAKA
+                                                    YAPIŞTIRILMASINDA KULLANILAN ALÇIDIR.
 
                                                 </p>
 
@@ -1380,7 +1381,7 @@
                                                     İlgili Standart | STANDART KAPSAMI DIŞI
 
                                                 </p>
-                                             
+
 
                                                 <p>
                                                     Fiziksel Form | BEYAZ TOZ
@@ -1391,7 +1392,8 @@
                                                     alt="" srcset="" class="img-fluid">
                                                 <div class="font-back">
                                                     <p>
-                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) , kalsit, geciktirici, su tutucu vb.
+                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) , kalsit, geciktirici, su tutucu
+                                                        vb.
 
                                                     </p>
                                                     <p>
@@ -1405,7 +1407,7 @@
 
 
                                                             <td>600 µ üzeri | %0-0,15
- </td>
+                                                            </td>
                                                         </tr>
                                                     </table>
 
@@ -1445,7 +1447,7 @@
                                                         Alçı / Su Oranı | 100 GR / 50 GR SU
 
                                                     </p>
-                                                    
+
                                                     <p>
                                                         Kullanım Süresi | min. 30 dk
 
@@ -1454,7 +1456,7 @@
                                                     <p> Ph| 7-8
 
                                                     </p>
-                                                    
+
                                                     <p>Raf Ömrü | 1 YIL
                                                     </p>
                                                 </div>
@@ -1464,7 +1466,8 @@
                                                     Alçı Plaka Derz Dolgu Alçısı
                                                 </h4>
                                                 <p>
-                                                    Kullanım Yeri |ALÇI PLAKANIN ARA BOŞLUKLARINI KAPATMADA KULLANILAN ALÇIDIR.
+                                                    Kullanım Yeri |ALÇI PLAKANIN ARA BOŞLUKLARINI KAPATMADA KULLANILAN
+                                                    ALÇIDIR.
 
                                                 </p>
 
@@ -1477,7 +1480,7 @@
                                                     İlgili Standart | STANDART KAPSAMI DIŞI
 
                                                 </p>
-                                             
+
 
                                                 <p>
                                                     Fiziksel Form | BEYAZ TOZ
@@ -1488,7 +1491,8 @@
                                                     alt="" srcset="" class="img-fluid">
                                                 <div class="font-back">
                                                     <p>
-                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) , kalsit, geciktirici, su tutucu vb.
+                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) , kalsit, geciktirici, su tutucu
+                                                        vb.
 
                                                     </p>
                                                     <p>
@@ -1497,13 +1501,13 @@
                                                     <table>
                                                         <tr>
                                                             <td> 45 µ üzeri | %9-15
-</td>
+                                                            </td>
                                                         </tr>
                                                         <tr>
 
 
                                                             <td>600 µ üzeri | %0-0,15
- </td>
+                                                            </td>
                                                         </tr>
                                                     </table>
 
@@ -1555,12 +1559,12 @@
                                                     <p> Flow Table ile Çap | 125-135 mm
 
                                                     </p>
-                                                  
+
                                                 </div>
                                             </div>
                                             <div class="col-12 col-lg-4 font-face">
                                                 <h4 class="card-title">
-                                                KARTONPİYER ALÇISI
+                                                    KARTONPİYER ALÇISI
 
                                                 </h4>
                                                 <p>
@@ -1600,13 +1604,13 @@
                                                     <table>
                                                         <tr>
                                                             <td> 45 µ üzeri | %14-18
-</td>
+                                                            </td>
                                                         </tr>
                                                         <tr>
 
 
                                                             <td>600 µ üzeri | %0-0,5
-</td>
+                                                            </td>
                                                         </tr>
                                                     </table>
 
@@ -1631,7 +1635,7 @@
                                                             </td>
 
                                                         </tr>
-                                                       
+
                                                     </table>
 
                                                     <p>
@@ -1649,13 +1653,13 @@
 
                                                     </p>
                                                     <p> Eğilme Mukavemeti : min. 1,5 N/mm² ( 2 saatlik ölçüm)
-                                                    min. 3 N/mm² (7 günlük ölçüm)
-                                                    Basınç Mukavemeti :
-                                                    Aderans Mukavemeti :
-                                                    Yangına Tepki : A1 (Yangına katkısı olmayan mamul)
-                                                    Doğrudan Hava ile
-                                                    Yayılan Ses Yalıtımı : NPD (Performans belirlenmedi)
-                                                    Isıl Direnç : NPD (Performans belirlenmedi)
+                                                        min. 3 N/mm² (7 günlük ölçüm)
+                                                        Basınç Mukavemeti :
+                                                        Aderans Mukavemeti :
+                                                        Yangına Tepki : A1 (Yangına katkısı olmayan mamul)
+                                                        Doğrudan Hava ile
+                                                        Yayılan Ses Yalıtımı : NPD (Performans belirlenmedi)
+                                                        Isıl Direnç : NPD (Performans belirlenmedi)
                                                     </p>
                                                     <p>Raf Ömrü | 1 YIL
                                                     </p>
@@ -1667,7 +1671,8 @@
 
                                                 </h4>
                                                 <p>
-                                                    Kullanım Yeri | BETON, GAZBETON, TUĞLA VB. YÜZEYLERE MAKİNE İLE UYGULANAN İLK KAT SIVA ALÇISIDIR.
+                                                    Kullanım Yeri | BETON, GAZBETON, TUĞLA VB. YÜZEYLERE MAKİNE İLE
+                                                    UYGULANAN İLK KAT SIVA ALÇISIDIR.
 
                                                 </p>
 
@@ -1693,7 +1698,8 @@
                                                     alt="" srcset="" class="img-fluid">
                                                 <div class="font-back">
                                                     <p>
-                                                    CaSO4+1/2H2O (HEMİHİDRAT GİPS) ,Perlit, Kalsit, geciktirici, su tutucu, hava sürükleyici vb.
+                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) ,Perlit, Kalsit, geciktirici, su
+                                                        tutucu, hava sürükleyici vb.
                                                     </p>
                                                     <p>
                                                         Tane Boyutu
@@ -1701,13 +1707,13 @@
                                                     <table>
                                                         <tr>
                                                             <td> 45 µ üzeri | %45-55
-</td>
+                                                            </td>
                                                         </tr>
                                                         <tr>
 
 
                                                             <td>600 µ üzeri | %4-10
- </td>
+                                                            </td>
                                                         </tr>
                                                     </table>
 
@@ -1758,7 +1764,7 @@
                                                     </p>
                                                     <p>
                                                         Flow Table ile Çap : 165-170 mm
-                                                       <br>
+                                                        <br>
                                                         Yüzey Sertliği : 45 SHORE D
                                                     </p>
                                                     <p>
@@ -1772,7 +1778,7 @@
                                             </div>
                                             <div class="col-12 col-lg-4 font-face">
                                                 <h4 class="card-title">
-                                                SATEN PERDAH ALÇISI
+                                                    SATEN PERDAH ALÇISI
 
                                                 </h4>
                                                 <p>
@@ -1802,7 +1808,8 @@
                                                     alt="" srcset="" class="img-fluid">
                                                 <div class="font-back">
                                                     <p>
-                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) , Kalsit, geciktirici, su tutucu, hava sürükleyici vb.
+                                                        CaSO4+1/2H2O (HEMİHİDRAT GİPS) , Kalsit, geciktirici, su tutucu,
+                                                        hava sürükleyici vb.
                                                     </p>
                                                     <p>
                                                         Tane Boyutu
@@ -1810,13 +1817,13 @@
                                                     <table>
                                                         <tr>
                                                             <td> 45 µ üzeri | %9-15
-</td>
+                                                            </td>
                                                         </tr>
                                                         <tr>
 
 
                                                             <td>600 µ üzeri | %0-0.15
- </td>
+                                                            </td>
                                                         </tr>
                                                     </table>
 
@@ -1868,7 +1875,7 @@
                                                     <p>
                                                         Eğilme Mukavemeti : min. 1,1 N/mm²
                                                         Basınç Mukavemeti : min. 2,1 N/mm²
-                                                       
+
                                                         Yangına Tepki : A1 (Yangına katkısı olmayan mamul)
                                                     </p>
                                                     <p> Birim Tüketim | 1 cm kalınlığında sürüldüğünde 1 m²’de 8,5-10 kg
@@ -1877,7 +1884,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            
+
 
 
                                         </div>
@@ -1929,9 +1936,13 @@
                                                     <h4> ASE TOOLS VZM 720 Z </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                            Teknik Özellikler Motor Gücü 720 W Voltaj 230/110 V, 50/60 Hz Dönüş Hızı 0-2600 rpm Pad Çapı 230 mm Uzunluk 1100-1950 mm
-                                                            Ağırlık 3,9 kg Uygulama Alanları Duvar, tavan ve zemindeki sert veya yumuşak tüm zımparalama işleri. Alçı panel, duvar
-                                                            plaka ve dekoratif levhaların zımparalanması. Standart Ekipmanlar Toz torbası, süpürge hortumu, süpürge bağlantı
+                                                            Teknik Özellikler Motor Gücü 720 W Voltaj 230/110 V, 50/60
+                                                            Hz Dönüş Hızı 0-2600 rpm Pad Çapı 230 mm Uzunluk 1100-1950
+                                                            mm
+                                                            Ağırlık 3,9 kg Uygulama Alanları Duvar, tavan ve zemindeki
+                                                            sert veya yumuşak tüm zımparalama işleri. Alçı panel, duvar
+                                                            plaka ve dekoratif levhaların zımparalanması. Standart
+                                                            Ekipmanlar Toz torbası, süpürge hortumu, süpürge bağlantı
                                                             aparatı, tutma.
                                                         </p>
 
@@ -1947,9 +1958,12 @@
                                                     <h4> ASE TOOLS TZM 710 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Teknik Özellikler Motor Gücü 710 W Voltaj 230/110 V, 50/60 Hz Dönüş Hızı 1000-2100 rpm Hız Aşaması 6 pozisyon Pad Çapı
-                                                        225 mm Uzunluk 1100-1700 mm Ağırlık 4,4 kg Uygulama Alanları Duvar, tavan ve zemindeki sert veya yumuşak tüm zımparalama
-                                                        işleri. Alçı panel, duvar plaka ve dekoratif levhaların zımparalanması.
+                                                            Teknik Özellikler Motor Gücü 710 W Voltaj 230/110 V, 50/60
+                                                            Hz Dönüş Hızı 1000-2100 rpm Hız Aşaması 6 pozisyon Pad Çapı
+                                                            225 mm Uzunluk 1100-1700 mm Ağırlık 4,4 kg Uygulama Alanları
+                                                            Duvar, tavan ve zemindeki sert veya yumuşak tüm zımparalama
+                                                            işleri. Alçı panel, duvar plaka ve dekoratif levhaların
+                                                            zımparalanması.
                                                         </p>
 
 
@@ -1964,10 +1978,14 @@
                                                     <h4> ASE TOOLS BTM 1010 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Teknik Özellikler Motor Gücü 1010 W Voltaj 230/110 V, 50/60 Hz Dönüş Hızı 1700-3500 rpm Hız Aşaması 6 pozisyon Elmas Disk
-                                                        Çapı 125 mm Uzunluk 1100-1700 mm Ağırlık 4,2 kg Uygulama Alanları Zemin, duvar ve tavanlardaki beton ve bakım/onarım
-                                                        işlerinde hızlı ve etkili taşlama işleri. Beton çapakların ve beton yüzeyindeki yağların, kalıntı ve tortuların
-                                                        taşlanması.
+                                                            Teknik Özellikler Motor Gücü 1010 W Voltaj 230/110 V, 50/60
+                                                            Hz Dönüş Hızı 1700-3500 rpm Hız Aşaması 6 pozisyon Elmas
+                                                            Disk
+                                                            Çapı 125 mm Uzunluk 1100-1700 mm Ağırlık 4,2 kg Uygulama
+                                                            Alanları Zemin, duvar ve tavanlardaki beton ve bakım/onarım
+                                                            işlerinde hızlı ve etkili taşlama işleri. Beton çapakların
+                                                            ve beton yüzeyindeki yağların, kalıntı ve tortuların
+                                                            taşlanması.
                                                         </p>
 
 
@@ -1980,12 +1998,15 @@
                                                         src="http://korkmazlaryapi.net/wp-content/uploads/asetools-vzm-750-210x160.png"
                                                         alt="" class="img-fluid">
                                                     <h4> ASE TOOLS VZM 750
- </h4>
+                                                    </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Teknik Özellikler Motor Gücü 750 W Voltaj 230/110 V, 50/60 Hz Dönüş Hızı 1000-1850 rpm Hız Aşaması 6 pozisyon Pad Çapı
-                                                        225 mm Uzunluk 1100-1900 mm Ağırlık 4,6 kg Uygulama Alanları Duvar, tavan ve zemindeki sert veya yumuşak tüm zımparalama
-                                                        işleri. Alçı panel, duvar plaka ve dekoratif levhaların zımparalanması.
+                                                            Teknik Özellikler Motor Gücü 750 W Voltaj 230/110 V, 50/60
+                                                            Hz Dönüş Hızı 1000-1850 rpm Hız Aşaması 6 pozisyon Pad Çapı
+                                                            225 mm Uzunluk 1100-1900 mm Ağırlık 4,6 kg Uygulama Alanları
+                                                            Duvar, tavan ve zemindeki sert veya yumuşak tüm zımparalama
+                                                            işleri. Alçı panel, duvar plaka ve dekoratif levhaların
+                                                            zımparalanması.
                                                         </p>
 
 
@@ -1998,13 +2019,16 @@
                                                         src="http://korkmazlaryapi.net/wp-content/uploads/ase_tem_250-210x160.png"
                                                         alt="" class="img-fluid">
                                                     <h4> ASE TEM 250
- </h4>
+                                                    </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE TEM 250, özellikle harç enjeksiyon uygulamaları için tasarlanmış, ön karışımlı, kullanımı son derece basit,
-                                                        pratik bir vidalı pompadır. Mikser bunkeri ayrı olduğu için, malzemeyi istenilen ve ihtiyaç duyulan sürede
-                                                        karıştırmak mümkündür. Pompa ünitesi ise mikserin altına dizayn edilerek, kullanımı daha kolaylaştırılmış ve
-                                                        sağlam bir şase olarak tasarlanmıştır. 
+                                                            ASE TEM 250, özellikle harç enjeksiyon uygulamaları için
+                                                            tasarlanmış, ön karışımlı, kullanımı son derece basit,
+                                                            pratik bir vidalı pompadır. Mikser bunkeri ayrı olduğu
+                                                            için, malzemeyi istenilen ve ihtiyaç duyulan sürede
+                                                            karıştırmak mümkündür. Pompa ünitesi ise mikserin
+                                                            altına dizayn edilerek, kullanımı daha kolaylaştırılmış ve
+                                                            sağlam bir şase olarak tasarlanmıştır.
                                                         </p>
 
 
@@ -2019,10 +2043,13 @@
                                                     <h4> ASE VP 250 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE VP 250 yeni nesil, kompakt, vidalı midi bir pompadır. Pompalama kapasitesi yüksek ve daha uzak mesafelere harç
-                                                        transferinde ideal bir makinedir. Yeni kompakt tasarımı ile kullanımı son derece kolay ve temizlik ve bakım hizmetleri
-                                                        son derece basittir. Büyük granül dağılımındaki (0-8 mm) çok bileşenli hazır kuru harçların pompalanmasında yüksek
-                                                        performanslı bir makinedir.
+                                                            ASE VP 250 yeni nesil, kompakt, vidalı midi bir pompadır.
+                                                            Pompalama kapasitesi yüksek ve daha uzak mesafelere harç
+                                                            transferinde ideal bir makinedir. Yeni kompakt tasarımı ile
+                                                            kullanımı son derece kolay ve temizlik ve bakım hizmetleri
+                                                            son derece basittir. Büyük granül dağılımındaki (0-8 mm) çok
+                                                            bileşenli hazır kuru harçların pompalanmasında yüksek
+                                                            performanslı bir makinedir.
                                                         </p>
 
 
@@ -2035,12 +2062,15 @@
                                                         src="http://korkmazlaryapi.net/wp-content/uploads/ase_vp_210_harc_transfer_pompasi-210x160.png"
                                                         alt="" class="img-fluid">
                                                     <h4> ASE VP 210
-</h4>
+                                                    </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE VP 210, elektrikle çalışan vidalı mini bir pompadır. Modüler bir yapıya ve az bir ağırlığa sahip olduğundan, her
-                                                        yere kolayca taşınabilir. Özellikle, çift karışım gerektiren özel uygulama harçların pompalanmasında ideal bir
-                                                        makinedir. Kova ile silo ile veya harç karıştırıcıları ile malzeme beslenerek pompalama uygulaması yapılır.
+                                                            ASE VP 210, elektrikle çalışan vidalı mini bir pompadır.
+                                                            Modüler bir yapıya ve az bir ağırlığa sahip olduğundan, her
+                                                            yere kolayca taşınabilir. Özellikle, çift karışım gerektiren
+                                                            özel uygulama harçların pompalanmasında ideal bir
+                                                            makinedir. Kova ile silo ile veya harç karıştırıcıları ile
+                                                            malzeme beslenerek pompalama uygulaması yapılır.
 
                                                         </p>
 
@@ -2056,10 +2086,14 @@
                                                     <h4> ASE MIX 15</h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE MIX 15 refrakter, örgü, dolgu, enjeksiyon harçları gibi özel malzemelerin karışımı için üretilmiştir. Her türlü kuru
-                                                        ön karışımı yapılmış fabrikasyon malzemeleri veya şantiye ortamında hazırlanacak harçları, su ile homojen bir halde
-                                                        karıştırarak kullanıma hazır hale getirir. ASE MIX 15’te alttan boşaltma ile karıştırılmış malzemeler hızlı ve firesiz
-                                                        olarak boşaltılır
+                                                            ASE MIX 15 refrakter, örgü, dolgu, enjeksiyon harçları gibi
+                                                            özel malzemelerin karışımı için üretilmiştir. Her türlü kuru
+                                                            ön karışımı yapılmış fabrikasyon malzemeleri veya şantiye
+                                                            ortamında hazırlanacak harçları, su ile homojen bir halde
+                                                            karıştırarak kullanıma hazır hale getirir. ASE MIX 15’te
+                                                            alttan boşaltma ile karıştırılmış malzemeler hızlı ve
+                                                            firesiz
+                                                            olarak boşaltılır
                                                         </p>
 
 
@@ -2074,9 +2108,12 @@
                                                     <h4> ASE GRC 200 FC </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                            ASE GRC 200 FC, alkali dayanımlı cam elyaf takviyeli beton harçlarının pompalanması için tasarlanmış bir makinedir.
-                                                            Prekast püskürtme uygulamaları için her türlü ihtiyaca cevap verebilecek teknik özelliğe sahiptir. Sağlam bir şase
-                                                            üzerine yerleştirilmiştir. Dayanıklı tekerlekleri sayesinde, çalışma ortamı içerisinde rahatlıkla hareket ettirilebilir.
+                                                            ASE GRC 200 FC, alkali dayanımlı cam elyaf takviyeli beton
+                                                            harçlarının pompalanması için tasarlanmış bir makinedir.
+                                                            Prekast püskürtme uygulamaları için her türlü ihtiyaca cevap
+                                                            verebilecek teknik özelliğe sahiptir. Sağlam bir şase
+                                                            üzerine yerleştirilmiştir. Dayanıklı tekerlekleri sayesinde,
+                                                            çalışma ortamı içerisinde rahatlıkla hareket ettirilebilir.
                                                         </p>
 
 
@@ -2091,11 +2128,18 @@
                                                     <h4> ASE FPM 35 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE FPM 35, özellikle yangına dayanıklı malzemeleri karıştırma, pompalama ve püskürtme uygulamaları için tasarlanmış
-                                                        rotor-stator sistemli bir makinedir. Özel karıştırıcı paletler sayesinde malzeme, karıştırma kazanında ihtiyaç duyulan
-                                                        sürede iyi bir şekilde karıştırılmaktadır. Frekans konvertörü ile pompalama kapasitesi, uygulama gereksinimine göre
-                                                        istenilen oranda istenilen anda değiştirilebilmektedir. Fireproofing püskürtme uygulamaları için özel tasarlanmış
-                                                        tabancalar
+                                                            ASE FPM 35, özellikle yangına dayanıklı malzemeleri
+                                                            karıştırma, pompalama ve püskürtme uygulamaları için
+                                                            tasarlanmış
+                                                            rotor-stator sistemli bir makinedir. Özel karıştırıcı
+                                                            paletler sayesinde malzeme, karıştırma kazanında ihtiyaç
+                                                            duyulan
+                                                            sürede iyi bir şekilde karıştırılmaktadır. Frekans
+                                                            konvertörü ile pompalama kapasitesi, uygulama gereksinimine
+                                                            göre
+                                                            istenilen oranda istenilen anda değiştirilebilmektedir.
+                                                            Fireproofing püskürtme uygulamaları için özel tasarlanmış
+                                                            tabancalar
                                                         </p>
 
 
@@ -2133,10 +2177,14 @@
                                                     <h4> ASE WSP 18 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE WSP 18, özellikle ıslak shotcrete ve gunite uygulamaları için, yüksek kapasiteli vidalı pompanın ve gerekli diğer
-                                                        tüm ekipmanların özel bir treyler şase üzerine monte edildiği bir sistemdir. Santralden gelen veya şantiyede hazırlanan
-                                                        12 mm granül büyüklüğüne kadar (püskürtme sistemlerinde 12 mm) pompalanabilir dizaynlı S4 kıvamında hazır yaş harçları,
-                                                        saatte 18 m3’e kadar kapasite
+                                                            ASE WSP 18, özellikle ıslak shotcrete ve gunite uygulamaları
+                                                            için, yüksek kapasiteli vidalı pompanın ve gerekli diğer
+                                                            tüm ekipmanların özel bir treyler şase üzerine monte
+                                                            edildiği bir sistemdir. Santralden gelen veya şantiyede
+                                                            hazırlanan
+                                                            12 mm granül büyüklüğüne kadar (püskürtme sistemlerinde 12
+                                                            mm) pompalanabilir dizaynlı S4 kıvamında hazır yaş harçları,
+                                                            saatte 18 m3’e kadar kapasite
                                                         </p>
 
 
@@ -2151,10 +2199,14 @@
                                                     <h4> ASE UNIVERSAL </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE Universal, özellikle çimento esaslı izolasyon malzemelerinin karıştırılması, transfer edilmesi ve püskürtülmesi için
-                                                        dizayn edilmiş üstün performanslı bir makinedir. Bunun yanı sıra kapı aralarına harç enjeksiyonu ve grout harçlarının
-                                                        transferi için kullanabileceğiniz çok amaçlı bir makinedir. Kullanımı son derece kolay ve basittir ve emniyet açısından
-                                                        CE standartlarına uygun olarak üretilmiştir.
+                                                            ASE Universal, özellikle çimento esaslı izolasyon
+                                                            malzemelerinin karıştırılması, transfer edilmesi ve
+                                                            püskürtülmesi için
+                                                            dizayn edilmiş üstün performanslı bir makinedir. Bunun yanı
+                                                            sıra kapı aralarına harç enjeksiyonu ve grout harçlarının
+                                                            transferi için kullanabileceğiniz çok amaçlı bir makinedir.
+                                                            Kullanımı son derece kolay ve basittir ve emniyet açısından
+                                                            CE standartlarına uygun olarak üretilmiştir.
                                                         </p>
 
 
@@ -2169,10 +2221,16 @@
                                                     <h4> ASE DUOJET </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Bazı çok bileşimli özel harçların makine ile püskürtme uygulamasında, karışımının belirli bir süre devam etmesi ve hava
-                                                        ile reaksiyona girmesi, kalite ve uygulama açısından çok önemlidir. Bu tarz işler için ASE DUOJET ideal bir modelidir.
-                                                        DUOJET, sürekli harç karıştırıcısı ile vidalı harç pompasının aynı şase üzerine kombine edildiği, üstün performanslı ve
-                                                        kolay taşınabilen mobil bir makinedir.
+                                                            Bazı çok bileşimli özel harçların makine ile püskürtme
+                                                            uygulamasında, karışımının belirli bir süre devam etmesi ve
+                                                            hava
+                                                            ile reaksiyona girmesi, kalite ve uygulama açısından çok
+                                                            önemlidir. Bu tarz işler için ASE DUOJET ideal bir
+                                                            modelidir.
+                                                            DUOJET, sürekli harç karıştırıcısı ile vidalı harç
+                                                            pompasının aynı şase üzerine kombine edildiği, üstün
+                                                            performanslı ve
+                                                            kolay taşınabilen mobil bir makinedir.
                                                         </p>
 
 
@@ -2187,9 +2245,14 @@
                                                     <h4> ASE EVP 18 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Özellikle hazır yaş şap uygulamaları için rotor-stator sistemi ile çalışan, saatte 18 m3 pompalama kapasiteli en son
-                                                        geliştirilmiş üstün performanslı pompalardır. Santralden gelen veya şantiyede hazırlanan 12 mm granül büyüklüğüne kadar
-                                                        pompalanabilir dizaynlı S4 kıvamında hazır yaş harçları veya hafif beton malzemelerini pompalamak için idealdir.
+                                                            Özellikle hazır yaş şap uygulamaları için rotor-stator
+                                                            sistemi ile çalışan, saatte 18 m3 pompalama kapasiteli en
+                                                            son
+                                                            geliştirilmiş üstün performanslı pompalardır. Santralden
+                                                            gelen veya şantiyede hazırlanan 12 mm granül büyüklüğüne
+                                                            kadar
+                                                            pompalanabilir dizaynlı S4 kıvamında hazır yaş harçları veya
+                                                            hafif beton malzemelerini pompalamak için idealdir.
                                                         </p>
 
 
@@ -2204,9 +2267,13 @@
                                                     <h4> ASE HP 850 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                            Yeni nesil havalı şap pompası ASE HP 850, Türkiye şantiye şartlarına uygun, güçlü ve dayanıklı olarak üretilmiştir.
-                                                            Modern tasarımlı, kullanımı ve bakımı son derece kolaydır. “İş yapmak için üretilen” bu şap pompası, güçlü 3 silindirli
-                                                            dizel bir motor ve kaliteli bir kompresöre sahiptir. ASE HP 950 modeli, 4 silindirli motor seçeneğiyle çok daha fazla güçe ihtiyac duyar.
+                                                            Yeni nesil havalı şap pompası ASE HP 850, Türkiye şantiye
+                                                            şartlarına uygun, güçlü ve dayanıklı olarak üretilmiştir.
+                                                            Modern tasarımlı, kullanımı ve bakımı son derece kolaydır.
+                                                            “İş yapmak için üretilen” bu şap pompası, güçlü 3 silindirli
+                                                            dizel bir motor ve kaliteli bir kompresöre sahiptir. ASE HP
+                                                            950 modeli, 4 silindirli motor seçeneğiyle çok daha fazla
+                                                            güçe ihtiyac duyar.
                                                         </p>
 
 
@@ -2221,9 +2288,14 @@
                                                     <h4> ASE SIVAJET </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        ASE SIVAJET, küçük bir hazır sıva makinesidir. Büyük makinelere ihtiyaç duyulmayan küçük işlerde, taşıma pratikliği
-                                                        açısından hafif, az yer kaplayan, sağlam, ideal ve ekonomik bir makinedir. ASE SIVAJET ile ASE SM 5’in yaptığı aynı
-                                                        uygulamalar yapılabilir. Her türlü hazır kuru karışım malzemeleriyle uygulama yapmak ve sürekli çalışmak mümkündür.
+                                                            ASE SIVAJET, küçük bir hazır sıva makinesidir. Büyük
+                                                            makinelere ihtiyaç duyulmayan küçük işlerde, taşıma
+                                                            pratikliği
+                                                            açısından hafif, az yer kaplayan, sağlam, ideal ve ekonomik
+                                                            bir makinedir. ASE SIVAJET ile ASE SM 5’in yaptığı aynı
+                                                            uygulamalar yapılabilir. Her türlü hazır kuru karışım
+                                                            malzemeleriyle uygulama yapmak ve sürekli çalışmak
+                                                            mümkündür.
                                                         </p>
 
 
@@ -2238,9 +2310,13 @@
                                                     <h4> ASE SM 5 </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Profesyonel ustaların en çok tercih ettiği model olan ASE SM 5, Türkiye’de en çok satılan yerli alçı sıva makinesidir.
-                                                        Türkiye’de 1 numara olması, ekonomik ve verimli kullanılışından dolayıdır. Geliştirilmiş şasesi ve otomasyon sistemi
-                                                        sayesinde şantiyelerde en az servis hizmeti ile çalışmaktadır.
+                                                            Profesyonel ustaların en çok tercih ettiği model olan ASE SM
+                                                            5, Türkiye’de en çok satılan yerli alçı sıva makinesidir.
+                                                            Türkiye’de 1 numara olması, ekonomik ve verimli
+                                                            kullanılışından dolayıdır. Geliştirilmiş şasesi ve otomasyon
+                                                            sistemi
+                                                            sayesinde şantiyelerde en az servis hizmeti ile
+                                                            çalışmaktadır.
                                                         </p>
 
 
@@ -2255,17 +2331,21 @@
                                                     <h4> ASE VP 500 TMK </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        İnşaat ortamında kum, çimento ve kireç (veya kimyasal katkılar) ile klasik yöntemle hazırlanacak pompalanabilir
-                                                        özellikteki harçları, karıştırıp pompalayan ve püskürterek uygulama yapan ekonomik ve yüksek verimli vidalı pompalardır.
-                                                        Üstün performanslı ve çok amaçlı bu pompalar ile çimento esaslı her türlü kuru ön karışımı yapılmış malzemeleri veya
-                                                        santralde hazırlanan yaş harçları uygulamak da mümkündür.
+                                                            İnşaat ortamında kum, çimento ve kireç (veya kimyasal
+                                                            katkılar) ile klasik yöntemle hazırlanacak pompalanabilir
+                                                            özellikteki harçları, karıştırıp pompalayan ve püskürterek
+                                                            uygulama yapan ekonomik ve yüksek verimli vidalı
+                                                            pompalardır.
+                                                            Üstün performanslı ve çok amaçlı bu pompalar ile çimento
+                                                            esaslı her türlü kuru ön karışımı yapılmış malzemeleri veya
+                                                            santralde hazırlanan yaş harçları uygulamak da mümkündür.
                                                         </p>
 
 
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class="col-8 col-lg-2 font-face">
                                                 <div class="img-card">
                                                     <img alt='just-seo'
@@ -2274,17 +2354,21 @@
                                                     <h4> ASE HSP </h4>
                                                     <div class="font-back">
                                                         <p>
-                                                        Birçok şap, sıva ve yapı harçları, bileşimleri ve kimyasal katkı maddeleri nedeniyle zor pompalanır özelliktedir.
-                                                        Bunlara sürekli kullanımda daha yüksek pompa basınçları uygulamak gerekir. Sürekli olarak 40 bar ve üzerinde kullanılan
-                                                        basınçlar için, mekanik olarak tahrik edilen silindir pompası veya vidalı pompalar uygun değildir.
+                                                            Birçok şap, sıva ve yapı harçları, bileşimleri ve kimyasal
+                                                            katkı maddeleri nedeniyle zor pompalanır özelliktedir.
+                                                            Bunlara sürekli kullanımda daha yüksek pompa basınçları
+                                                            uygulamak gerekir. Sürekli olarak 40 bar ve üzerinde
+                                                            kullanılan
+                                                            basınçlar için, mekanik olarak tahrik edilen silindir
+                                                            pompası veya vidalı pompalar uygun değildir.
                                                         </p>
 
 
                                                     </div>
                                                 </div>
                                             </div>
-                                            
-                                            </div>
+
+                                        </div>
                                     </div>
                                     <div class="text">
                                         <p style="color: black">İletişim ve satış için : 0282 692 60 20</p>
@@ -2300,393 +2384,443 @@
                                         <p>Ürünlerin üzerinden detaylara ulaşabilirsiniz</p>
 
                                         <div class="row card-wrapper">
-                                        <div class="col-12 col-lg-4 font-face">
-                                            <h4 class="card-title">
-                                                Schutzer Elyaflı Sıva Harcı
-                                        
-                                            </h4>
-                                            <p>
-                                                Genleştirilmiş polistren (EPS), ekstrüde polistren (XPS) ve taşyünü
-                                                gibi ısı
-                                                yalıtım levhalarının üzerine yüzey sıvası olarak kullanılmak üzere
-                                                formüle
-                                                edilmiş, yüksek aderansa sahip, elastik ve su itici özellikli toz
-                                                polimerler
-                                                ve elyaf ile takviye edilmiş, çimento esaslı sıva harcıdır.
-                                            </p>
-                                        
-                                            <h5>
-                                                Kullanım Alanları
-                                        
-                                            </h5>
-                                        
-                                            <p>
-                                                İç ve dış mekanlarda duvar ve tavanlarda yatay ve düşeyde ısı
-                                                yalıtım
-                                                plakalarının sıvanmasında kullanılır.
-                                        
-                                        
-                                            </p>
-                                            <h4>
-                                                Avantajları : &rarr;
-                                            </h4>
-                                            <img alt='just-seo' src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg" alt="" srcset=""
-                                                class="img-fluid">
-                                            <div class="font-back">
-                                        
-                                        
-                                                <ul>
-                                                    <li> Esnektir,</li>
-                                                    <li>Hazırlanması ve uygulanması kolaydır,</li>
-                                                    <li>Termal şoklara dayanıklıdır,</li>
-                                                    <li>Yanmaz,</li>
-                                                    <li>Yapışma performansı çok yüksektir,</li>
-                                                    <li>Isı değişiklerinden etkilenmez,</li>
-                                                    <li>Üzerine direk boya uygulanabilir.</li>
-                                        
-                                                </ul>
-                                            <div class="divider"></div>
-                                                <ul>
-                                        
-                                                    <li>Yoğunluk : 1.50 kg/lt</li>
-                                                    <li>
-                                                        Su Karışım Oranı : 5,5–6 lt su
-                                                        25 kg Toz İçin</li>
-                                                    <li>
-                                                        Dinlendirme : 5–10 dk</li>
-                                                    <li>
-                                                        Çalışma Süresi : 1,5–2 saat</li>
-                                                    <li>
-                                                        Kabuklaşma Süresi : 20 Dk</li>
-                                                    <li>
-                                                        Uygulama Zemin Sıcaklığı : +5o C,+30o C</li>
-                                                    <li>
-                                                        Çevre Zemin Sıcaklığı : +5 oC,+30 oC</li>
-                                                    <li>
-                                                        Uygulama Kalınlığı : 3–5 mm arası</li>
-                                                    <li>
-                                                        Yapışma Kukavemeti(Levhaya) : ≥0,25 N/mm²</li>
-                                                    <li>
-                                                        Soyulma Mukavemeti : 25 N mm²</li>
-                                                    <li>
-                                                        Eğilmede Dayanımı : ≥3,8 N/mm²</li>
-                                                    <li>
-                                        
-                                                        Basınç Dayanımı : ≥10,1 N/mm²</li>
-                                        
-                                                </ul>
-                                        
-                                        
-                                        
+                                            <div class="col-12 col-lg-4 font-face">
+                                                <h4 class="card-title">
+                                                    Schutzer Elyaflı Sıva Harcı
+
+                                                </h4>
+                                                <p>
+                                                    Genleştirilmiş polistren (EPS), ekstrüde polistren (XPS) ve taşyünü
+                                                    gibi ısı
+                                                    yalıtım levhalarının üzerine yüzey sıvası olarak kullanılmak üzere
+                                                    formüle
+                                                    edilmiş, yüksek aderansa sahip, elastik ve su itici özellikli toz
+                                                    polimerler
+                                                    ve elyaf ile takviye edilmiş, çimento esaslı sıva harcıdır.
+                                                </p>
+
+                                                <h5>
+                                                    Kullanım Alanları
+
+                                                </h5>
+
+                                                <p>
+                                                    İç ve dış mekanlarda duvar ve tavanlarda yatay ve düşeyde ısı
+                                                    yalıtım
+                                                    plakalarının sıvanmasında kullanılır.
+
+
+                                                </p>
+                                                <h4>
+                                                    Avantajları : &rarr;
+                                                </h4>
+                                                <img alt='just-seo'
+                                                    src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg"
+                                                    alt="" srcset="" class="img-fluid">
+                                                <div class="font-back">
+
+
+                                                    <ul>
+                                                        <li> Esnektir,</li>
+                                                        <li>Hazırlanması ve uygulanması kolaydır,</li>
+                                                        <li>Termal şoklara dayanıklıdır,</li>
+                                                        <li>Yanmaz,</li>
+                                                        <li>Yapışma performansı çok yüksektir,</li>
+                                                        <li>Isı değişiklerinden etkilenmez,</li>
+                                                        <li>Üzerine direk boya uygulanabilir.</li>
+
+                                                    </ul>
+                                                    <div class="divider"></div>
+                                                    <ul>
+
+                                                        <li>Yoğunluk : 1.50 kg/lt</li>
+                                                        <li>
+                                                            Su Karışım Oranı : 5,5–6 lt su
+                                                            25 kg Toz İçin</li>
+                                                        <li>
+                                                            Dinlendirme : 5–10 dk</li>
+                                                        <li>
+                                                            Çalışma Süresi : 1,5–2 saat</li>
+                                                        <li>
+                                                            Kabuklaşma Süresi : 20 Dk</li>
+                                                        <li>
+                                                            Uygulama Zemin Sıcaklığı : +5o C,+30o C</li>
+                                                        <li>
+                                                            Çevre Zemin Sıcaklığı : +5 oC,+30 oC</li>
+                                                        <li>
+                                                            Uygulama Kalınlığı : 3–5 mm arası</li>
+                                                        <li>
+                                                            Yapışma Kukavemeti(Levhaya) : ≥0,25 N/mm²</li>
+                                                        <li>
+                                                            Soyulma Mukavemeti : 25 N mm²</li>
+                                                        <li>
+                                                            Eğilmede Dayanımı : ≥3,8 N/mm²</li>
+                                                        <li>
+
+                                                            Basınç Dayanımı : ≥10,1 N/mm²</li>
+
+                                                    </ul>
+
+
+
+                                                </div>
                                             </div>
-                                            </div><div class="col-12 col-lg-4 font-face">
+                                            <div class="col-12 col-lg-4 font-face">
                                                 <h4 class="card-title">
                                                     Schutzer Yapıştırma Harcı
 
-                                            
+
                                                 </h4>
                                                 <p>
-                                                Genleştirilmiş polistren (EPS), ekstrüde polistren (XPS) ve taşyünü gibi ısı yalıtım levhalarının yüzeye yapıştırılması
-                                                için formule edilmiş, yüksek düzeyde polimer katkıları ve çeşitli kimyasallar ile güçlendirilmiş, çimento esaslı
-                                                yapıştırma harcıdır.
+                                                    Genleştirilmiş polistren (EPS), ekstrüde polistren (XPS) ve taşyünü
+                                                    gibi ısı yalıtım levhalarının yüzeye yapıştırılması
+                                                    için formule edilmiş, yüksek düzeyde polimer katkıları ve çeşitli
+                                                    kimyasallar ile güçlendirilmiş, çimento esaslı
+                                                    yapıştırma harcıdır.
 
                                                 </p>
-                                            
+
                                                 <h5>
                                                     Kullanım Alanları
-                                            
-                                                </h5>
-                                            
-                                                <p>
-                                                    İç ve dış mekânlarda duvar ve tavanlarda yatay ve düşeyde ısı yalıtım plakalarının yapıştırılmasında kullanılır.
 
-                                            
-                                            
+                                                </h5>
+
+                                                <p>
+                                                    İç ve dış mekânlarda duvar ve tavanlarda yatay ve düşeyde ısı
+                                                    yalıtım plakalarının yapıştırılmasında kullanılır.
+
+
+
                                                 </p>
-                                                <h4> 
+                                                <h4>
                                                     Avantajları : &rarr;
                                                 </h4>
-                                                <img alt='just-seo' src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg" alt="" srcset=""
-                                                    class="img-fluid">
+                                                <img alt='just-seo'
+                                                    src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg"
+                                                    alt="" srcset="" class="img-fluid">
                                                 <div class="font-back">
-                                                   
-                                            
+
+
                                                     <ul>
-                                                       
+
                                                         <li>Hazırlanması ve uygulanması kolaydır,</li>
                                                         <li>Termal şoklara dayanıklıdır,</li>
                                                         <li>Yanmaz,</li>
                                                         <li>Yapışma performansı çok yüksektir,</li>
                                                         <li>Uygulama kolaylığı sağlar.</li>
-                                                       
-                                            
-                                                    </ul>
-                                                <div class="divider"></div>
-                                                   <h5>Yüzey Hazırlama
-</h5>   <p>
-    25 kg’ lık toz halindeki Lather Yp 6–6,5 lt temiz su içine katılarak düşük devirli mikser veya matkap yardımı ile
-    topaklanma olmayacak şekilde 3–4 dk karıştırılarak homojen bir hale getirilir.
-    Hazırlanan bu karışım 5–10 dk olgunlaşması için dinlendirilir ve tekrar karıştırılarak kullanılır.
-    Kaptaki karışım 1,5–2 saat içerisinde tüketilmesi tavsiye edilmektedir.
-</p> <p> Depolama : 
-    Ürün kuru ve serin bir yerde saklanmalıdır. Raf ömrü uygun şartlarda 1 yıldır. İstifleme üst üste 8 sırayı geçmemelidir.
-    </p><h5>
-    Güvenlik Uyarıları</h5><p>
-    Çimento içerir, alkalidir. Alkali olmasından dolayı göze ve cilde sıçradığında derhal ve bol temiz su ile yıkayınız Göze
-    sıçradığında doktora başvurunuz. Çocukların erişemeyeceği yerlerde depolayınız.
 
-</p>
+
+                                                    </ul>
+                                                    <div class="divider"></div>
+                                                    <h5>Yüzey Hazırlama
+                                                    </h5>
+                                                    <p>
+                                                        25 kg’ lık toz halindeki Lather Yp 6–6,5 lt temiz su içine
+                                                        katılarak düşük devirli mikser veya matkap yardımı ile
+                                                        topaklanma olmayacak şekilde 3–4 dk karıştırılarak homojen bir
+                                                        hale getirilir.
+                                                        Hazırlanan bu karışım 5–10 dk olgunlaşması için dinlendirilir ve
+                                                        tekrar karıştırılarak kullanılır.
+                                                        Kaptaki karışım 1,5–2 saat içerisinde tüketilmesi tavsiye
+                                                        edilmektedir.
+                                                    </p>
+                                                    <p> Depolama :
+                                                        Ürün kuru ve serin bir yerde saklanmalıdır. Raf ömrü uygun
+                                                        şartlarda 1 yıldır. İstifleme üst üste 8 sırayı geçmemelidir.
+                                                    </p>
+                                                    <h5>
+                                                        Güvenlik Uyarıları</h5>
+                                                    <p>
+                                                        Çimento içerir, alkalidir. Alkali olmasından dolayı göze ve
+                                                        cilde sıçradığında derhal ve bol temiz su ile yıkayınız Göze
+                                                        sıçradığında doktora başvurunuz. Çocukların erişemeyeceği
+                                                        yerlerde depolayınız.
+
+                                                    </p>
                                                 </div>
 
 
-                                        </div>
-                                        <div class="col-12 col-lg-4 font-face">
-                                            <h4 class="card-title">
-                                            Pvc Köşe Profili (Fileli)
-
-                                        
-                                            </h4>
-                                            <p>
-                                            Donatı fileli(emprenye)veya cam elyafı malzemeden en az ‘’x’’boyutlarında 1.5-2 mm et kalınlığında L profil
-                                            olmalıdır.Sıvı uygulamasında montör görevi göreceğinden yüzeyleri pürüzsüz,gönyesinde ve düzgün olmalıdır.PVC fileli
-                                            açılı köşe profili yapılarda 0-180 derece açılarda ,iç veya dış köşelerde ;ısı yalıtım levhalarının yapıştırılıp
-                                            dübellenmesi sonrasında uygulanır.
-
-                                            </p>
-                                        
-                                           
-                                            <img alt='just-seo' src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg" alt="" srcset=""
-                                                class="img-fluid">
-                                            <div class="font-back">
-                                        
-                                                <p> 
-                                            Sağlam,düzgün ve keskin hatların sağlanması için ilk kat sıva üstüne çelik mala ile
-                                            tutturulup ve ikinci kat sıva yapılarak bitirilir.Fileli olarak üretilmesi sayesinde ,ilk ve ikinci kat sıvalar arasında
-                                            güçlü bir aderans oluşturup sıva ile bütünlük sağlar.Profilin en önemli özelliği 0-180 derece arasında değişen açolı
-                                            köşelerde rahatlıkla kullanılabilmesidir.
-                                        </p>
                                             </div>
-                                        </div>
-                                        <div class="col-12 col-lg-4 font-face">
-                                            <h4 class="card-title">
-                                            Schutzer Sıva Filesi Turuncu
+                                            <div class="col-12 col-lg-4 font-face">
+                                                <h4 class="card-title">
+                                                    Pvc Köşe Profili (Fileli)
 
-                                            </h4>
-                                            
-                                        
-                                            <h5>
-                                            SIVA FİLELERİNİN TEKNİK ÖZELLİKLERİ
 
-                                        
-                                            </h5>
-                                        
-                                            <ul>
-                                                <li> Sıva fileleri cam ipliğinden dokunmuş takviye fileleridir.</li>
-                                                <li>Sıva ve macun çatlaklarını önlemek amacıyla kullanılır.</li>
-                                                <li> Özel bir kaplama ile dış hava koşulları ve alkaliye karşı dayanıklı hale getirilmişlerdir.
-</li>
-                                                <li> Kaplama kalınlığı arttıkça, malzemenin dış etkenlere ve alkaliye dayanımı da artar.
-</li>
-                                                <li> Sıva filelerinin esnekliği her iki yönde de %4′ten fazla olmamalıdır.
-</li>
-                                                <li>Filelerin uzun vadede alkaliye dayanımı “Kopma Dayanımı Testi” ile test edilmiş olmalıdır.</li>
-                                               
-                                            
-                                            </ul>
-                                         
-                                            <img alt='just-seo' src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg" alt="" srcset=""
-                                                class="img-fluid">
-                                            <div class="font-back">
+                                                </h4>
                                                 <p>
-                                                    Kopma dayanımı testi şu şekilde yapılır: Sıva filesi 28 gün süreyle %5′lik NAOH çözeltisi içinde, yani alkali ortamda
-                                                    bekletilir. Bir süre sonra, kopmaya karşı dayanımı deneyden önceki değerinin %50′sinden daha aşağıya düşmemelidir. Eksen
-                                                    sıva filelerinin “Kopma dayanımı testi” sonuçları, %50′nin çok üzerindedir.
+                                                    Donatı fileli(emprenye)veya cam elyafı malzemeden en az
+                                                    ‘’x’’boyutlarında 1.5-2 mm et kalınlığında L profil
+                                                    olmalıdır.Sıvı uygulamasında montör görevi göreceğinden yüzeyleri
+                                                    pürüzsüz,gönyesinde ve düzgün olmalıdır.PVC fileli
+                                                    açılı köşe profili yapılarda 0-180 derece açılarda ,iç veya dış
+                                                    köşelerde ;ısı yalıtım levhalarının yapıştırılıp
+                                                    dübellenmesi sonrasında uygulanır.
+
+                                                </p>
+
+
+                                                <img alt='just-seo'
+                                                    src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg"
+                                                    alt="" srcset="" class="img-fluid">
+                                                <div class="font-back">
+
+                                                    <p>
+                                                        Sağlam,düzgün ve keskin hatların sağlanması için ilk kat sıva
+                                                        üstüne çelik mala ile
+                                                        tutturulup ve ikinci kat sıva yapılarak bitirilir.Fileli olarak
+                                                        üretilmesi sayesinde ,ilk ve ikinci kat sıvalar arasında
+                                                        güçlü bir aderans oluşturup sıva ile bütünlük sağlar.Profilin en
+                                                        önemli özelliği 0-180 derece arasında değişen açolı
+                                                        köşelerde rahatlıkla kullanılabilmesidir.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 col-lg-4 font-face">
+                                                <h4 class="card-title">
+                                                    Schutzer Sıva Filesi Turuncu
+
+                                                </h4>
+
+
+                                                <h5>
+                                                    SIVA FİLELERİNİN TEKNİK ÖZELLİKLERİ
+
+
+                                                </h5>
+
+                                                <ul>
+                                                    <li> Sıva fileleri cam ipliğinden dokunmuş takviye fileleridir.</li>
+                                                    <li>Sıva ve macun çatlaklarını önlemek amacıyla kullanılır.</li>
+                                                    <li> Özel bir kaplama ile dış hava koşulları ve alkaliye karşı
+                                                        dayanıklı hale getirilmişlerdir.
+                                                    </li>
+                                                    <li> Kaplama kalınlığı arttıkça, malzemenin dış etkenlere ve
+                                                        alkaliye dayanımı da artar.
+                                                    </li>
+                                                    <li> Sıva filelerinin esnekliği her iki yönde de %4′ten fazla
+                                                        olmamalıdır.
+                                                    </li>
+                                                    <li>Filelerin uzun vadede alkaliye dayanımı “Kopma Dayanımı Testi”
+                                                        ile test edilmiş olmalıdır.</li>
+
+
+                                                </ul>
+
+                                                <img alt='just-seo'
+                                                    src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg"
+                                                    alt="" srcset="" class="img-fluid">
+                                                <div class="font-back">
+                                                    <p>
+                                                        Kopma dayanımı testi şu şekilde yapılır: Sıva filesi 28 gün
+                                                        süreyle %5′lik NAOH çözeltisi içinde, yani alkali ortamda
+                                                        bekletilir. Bir süre sonra, kopmaya karşı dayanımı deneyden
+                                                        önceki değerinin %50′sinden daha aşağıya düşmemelidir. Eksen
+                                                        sıva filelerinin “Kopma dayanımı testi” sonuçları, %50′nin çok
+                                                        üzerindedir.
+                                                    </p>
+                                                    <h4>
+                                                        Sıva Filenin Kullanım Yerleri
+                                                        &rarr;
+                                                    </h4>
+                                                    <ul>
+                                                        <li>Dış cephe ısı yalıtım sistemlerinde</li>
+                                                        <li>Alçı ve gaz beton blokları üzerinde yapılan sıvalarda</li>
+                                                        <li>Farklı malzemelerim birleşim yerlerinde, en az 25-30 cm
+                                                            eninde</li>
+                                                        <li>Prefabrik yapı elemanlarının eklerinde, en az 25-30 cm
+                                                            eninde</li>
+                                                        <li>Oluşmuş çatlaklar üzerinde yapılacak tamir sıvalarının ya da
+                                                            macunların takviyesinde</li>
+                                                        <li>Çimento, alçı ya da akrilik esaslı macun ve sıvaların
+                                                            takviyesinde</li>
+                                                        <li>Çimento esaslı, plastik katkılı likit su izolasyon
+                                                            malzemelerinin takviyesinde</li>
+                                                        <li>Kırılgan mermerlerden oluşan plakaların takviyesinde</li>
+                                                        <li>Mermer ve cam mozaiklerinin takviyesinde
+                                                        </li>
+                                                        <li>Epoksi zemin kaplamalarının takviyesinde
+                                                        </li>
+                                                    </ul>
+
+                                                </div>
+
+
+                                            </div>
+                                            <div class="col-12 col-lg-4 font-face">
+                                                <h4 class="card-title">
+                                                    Schutzer Dekoratif Sıva (Tane Dokulu)
+
+                                                </h4>
+                                                <p>
+                                                    Son kat olarak uygulanmak üzere geliştirilmiş, esnek ve su itici toz
+                                                    polimerler ve çeşitli kimyasallar ile aderansı ve
+                                                    zor koşullara dayanıklılığı artırılmış, elyaf katkılı, beyaz çimento
+                                                    bazlı, bir toz son kat mineral iç ve dış yüzey
+                                                    kaplamasıdır.
+                                                </p>
+
+                                                <h5>
+                                                    Kullanım Alanları
+
+                                                </h5>
+
+                                                <p>
+                                                    İç ve dış mekânlarda duvar ve tavanlarda yatay ve düşeyde, beton ve
+                                                    sıvalı yüzeylerin sıvanmasında kullanılır.
+
+
+
                                                 </p>
                                                 <h4>
-                                                    Sıva Filenin Kullanım Yerleri
-                                                    &rarr;
+                                                    Avantajları : &rarr;
                                                 </h4>
-                                                <ul>
-                                                    <li>Dış cephe ısı yalıtım sistemlerinde</li>
-                                                    <li>Alçı ve gaz beton blokları üzerinde yapılan sıvalarda</li>
-                                                    <li>Farklı malzemelerim birleşim yerlerinde, en az 25-30 cm eninde</li>
-                                                    <li>Prefabrik yapı elemanlarının eklerinde, en az 25-30 cm eninde</li>
-                                                    <li>Oluşmuş çatlaklar üzerinde yapılacak tamir sıvalarının ya da macunların takviyesinde</li>
-                                                    <li>Çimento, alçı ya da akrilik esaslı macun ve sıvaların takviyesinde</li>
-                                                    <li>Çimento esaslı, plastik katkılı likit su izolasyon malzemelerinin takviyesinde</li>
-                                                    <li>Kırılgan mermerlerden oluşan plakaların takviyesinde</li>
-                                                    <li>Mermer ve cam mozaiklerinin takviyesinde
-</li>                                               <li>Epoksi zemin kaplamalarının takviyesinde
-</li>
-                                                </ul>
-                                            
+                                                <img alt='just-seo'
+                                                    src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg"
+                                                    alt="" srcset="" class="img-fluid">
+                                                <div class="font-back">
+
+
+                                                    <ul>
+                                                        <li>Yapıya doğal ve dekoratif bir görünüm kazandırır,</li>
+                                                        <li>Hazırlanması ve uygulanması kolaydır,</li>
+                                                        <li>Termal şoklara dayanıklıdır,</li>
+                                                        <li>Yapı kabuğunun mekanik mukavemetini arttırır,</li>
+                                                        <li>Su itici özelliğe sahiptir.</li>
+                                                        <li>UV dayanımı yüksektir,</li>
+                                                        <li>Yapışma performansı çok yüksektir,</li>
+                                                        <li>Sıvada ki işçilik hatalarını gizler,</li>
+                                                        <li>Üzerine direk boya uygulanabilir.</li>
+
+                                                    </ul>
+                                                    <div class="divider"></div>
+                                                    <ul>
+
+                                                        <li>Yoğunluk : 1,55 Kg/lt
+                                                        </li>
+                                                        <li>
+                                                            Su Karışım Oranı : 5–5,5 lt su / 25 kg Toz İçin</li>
+                                                        <li>
+                                                            Dinlendirme : 5dk</li>
+                                                        <li>
+                                                            Çalışma Süresi : 1,5–2 saat</li>
+                                                        <li>
+                                                            Kabuklaşma Süresi : 20 Dk</li>
+                                                        <li>
+                                                            Uygulama Zemin Sıcaklığı : +5<sup>o</sup> C,+30<sup>o</sup>
+                                                            C</li>
+                                                        <li>
+                                                            Çevre Zemin Sıcaklığı : +5 <sup>o</sup>C,+30 <sup>o</sup>C
+                                                        </li>
+                                                        <li>
+                                                            Uygulama Kalınlığı : 2 mm arası</li>
+
+                                                        <li>
+
+                                                            Su Aktarım Hızı: W=2,451 Kg</li>
+
+                                                    </ul>
+
+
+
+                                                </div>
                                             </div>
-                                        
-                                        
-                                        </div>
-                                        <div class="col-12 col-lg-4 font-face">
-                                            <h4 class="card-title">
-                                                Schutzer Dekoratif Sıva (Tane Dokulu)
-                                        
-                                            </h4>
-                                            <p>
-                                                Son kat olarak uygulanmak üzere geliştirilmiş, esnek ve su itici toz polimerler ve çeşitli kimyasallar ile aderansı ve
-                                                zor koşullara dayanıklılığı artırılmış, elyaf katkılı, beyaz çimento bazlı, bir toz son kat mineral iç ve dış yüzey
-                                                kaplamasıdır.
-                                            </p>
-                                        
-                                            <h5>
-                                                Kullanım Alanları
-                                        
-                                            </h5>
-                                        
-                                            <p>
-                                            İç ve dış mekânlarda duvar ve tavanlarda yatay ve düşeyde, beton ve sıvalı yüzeylerin sıvanmasında kullanılır.
+                                            <div class="col-12 col-lg-4 font-face">
+                                                <h4 class="card-title">
+                                                    Schutzer Dekoratif Sıva (İnce Tane Dokulu)
 
-                                        
-                                        
-                                            </p>
-                                            <h4>
-                                                Avantajları : &rarr;
-                                            </h4>
-                                            <img alt='just-seo' src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg" alt="" srcset=""
-                                                class="img-fluid">
-                                            <div class="font-back">
-                                        
-                                        
-                                                <ul>
-                                                    <li>Yapıya doğal ve dekoratif bir görünüm kazandırır,</li>
-                                                    <li>Hazırlanması ve uygulanması kolaydır,</li>
-                                                    <li>Termal şoklara dayanıklıdır,</li>
-                                                    <li>Yapı kabuğunun mekanik mukavemetini arttırır,</li>
-                                                    <li>Su itici özelliğe sahiptir.</li>
-                                                    <li>UV dayanımı yüksektir,</li>
-                                                    <li>Yapışma performansı çok yüksektir,</li>
-                                                    <li>Sıvada ki işçilik hatalarını gizler,</li>
-                                                    <li>Üzerine direk boya uygulanabilir.</li>
-                                        
-                                                </ul>
-                                            <div class="divider"></div>
-                                                <ul>
-                                        
-                                                    <li>Yoğunluk : 1,55 Kg/lt
-</li>
-                                                    <li>
-                                                        Su Karışım Oranı : 5–5,5 lt su / 25 kg Toz İçin</li>
-                                                    <li>
-                                                        Dinlendirme : 5dk</li>
-                                                    <li>
-                                                        Çalışma Süresi : 1,5–2 saat</li>
-                                                    <li>
-                                                        Kabuklaşma Süresi : 20 Dk</li>
-                                                    <li>
-                                                        Uygulama Zemin Sıcaklığı : +5<sup>o</sup> C,+30<sup>o</sup> C</li>
-                                                    <li>
-                                                        Çevre Zemin Sıcaklığı : +5 <sup>o</sup>C,+30 <sup>o</sup>C</li>
-                                                    <li>
-                                                        Uygulama Kalınlığı : 2 mm arası</li>
-                                                    
-                                                    <li>
-                                        
-                                                        Su Aktarım Hızı: W=2,451 Kg</li>
-                                        
-                                                </ul>
-                                        
-                                        
-                                        
+                                                </h4>
+                                                <p>
+                                                    Son kat olarak uygulanmak üzere geliştirilmiş, esnek ve su itici toz
+                                                    polimerler ve çeşitli kimyasallar ile aderansı ve
+                                                    zor koşullara dayanıklılığı artırılmış, elyaf katkılı, beyaz çimento
+                                                    bazlı, bir toz son kat mineral iç ve dış yüzey
+                                                    kaplamasıdır.
+
+                                                </p>
+
+                                                <h5>
+                                                    Kullanım Alanları
+
+                                                </h5>
+
+                                                <p>
+                                                    İç ve dış mekânlarda duvar ve tavanlarda yatay ve düşeyde, beton ve
+                                                    sıvalı yüzeylerin sıvanmasında kullanılır.
+
+
+                                                </p>
+                                                <h4>
+                                                    Avantajları : &rarr;
+                                                </h4>
+                                                <img alt='just-seo'
+                                                    src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg"
+                                                    alt="" srcset="" class="img-fluid">
+                                                <div class="font-back">
+
+                                                    <ul>
+                                                        <li>Hazırlanması ve uygulanması kolaydır,</li>
+                                                        <li>Termal şoklara dayanıklıdır,</li>
+                                                        <li>Yapıya doğal ve dekoratif bir görünüm kazandırır,</li>
+                                                        <li>Yapışma performansı çok yüksektir,</li>
+                                                        <li>Yapı kabuğunun mekanik mukavemetini arttırır,</li>
+                                                        <li>Üzerine direkt boya uygulanabilir,</li>
+                                                        <li>UV dayanımı yüksektir,</li>
+                                                        <li>Sıvada ki işçilik hatalarını gizler,</li>
+                                                        <li>Su itici özelliğe sahiptir.</li>
+                                                    </ul>
+                                                    <div class="divider"></div>
+                                                    <ul>
+
+                                                        <li>Yoğunluk : 1.55 kg/lt</li>
+                                                        <li>
+                                                            Su Karışım Oranı : 5,5.5 lt su
+                                                            25 kg Toz İçin</li>
+                                                        <li>
+                                                            Dinlendirme : 5</li>
+                                                        <li>
+                                                            Çalışma Süresi : 1,5–2 saat</li>
+                                                        <li>
+                                                            Kabuklaşma Süresi : 20 Dk</li>
+                                                        <li>
+                                                            Uygulama Zemin Sıcaklığı : +5<sup>o</sup> C,+30<sup>o</sup>
+                                                            C</li>
+                                                        <li>
+                                                            Çevre Zemin Sıcaklığı : +5 <sup>o</sup>C,+30 <sup>o</sup>C
+                                                        </li>
+                                                        <li>
+                                                            Uygulama Kalınlığı : 2 mm arası</li>
+
+                                                        <li>
+
+                                                            Su Aktarım Hızı: W=2,451 Kg</li>
+
+                                                    </ul>
+
+
+
+                                                </div>
+
+
                                             </div>
+
                                         </div>
-                                        <div class="col-12 col-lg-4 font-face">
-                                            <h4 class="card-title">
-                                            Schutzer Dekoratif Sıva (İnce Tane Dokulu)
-
-                                            </h4>
-                                            <p>
-                                                Son kat olarak uygulanmak üzere geliştirilmiş, esnek ve su itici toz polimerler ve çeşitli kimyasallar ile aderansı ve
-                                                zor koşullara dayanıklılığı artırılmış, elyaf katkılı, beyaz çimento bazlı, bir toz son kat mineral iç ve dış yüzey
-                                                kaplamasıdır.
-
-                                            </p>
-                                        
-                                            <h5>
-                                                Kullanım Alanları
-                                        
-                                            </h5>
-                                        
-                                            <p>
-                                            İç ve dış mekânlarda duvar ve tavanlarda yatay ve düşeyde, beton ve sıvalı yüzeylerin sıvanmasında kullanılır.
-
-                                        
-                                            </p>
-                                            <h4>
-                                                Avantajları : &rarr;
-                                            </h4>
-                                            <img alt='just-seo' src="http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg" alt="" srcset=""
-                                                class="img-fluid">
-                                            <div class="font-back">
-                                        
-                                                <ul>
-                                                    <li>Hazırlanması ve uygulanması kolaydır,</li>
-                                                    <li>Termal şoklara dayanıklıdır,</li>
-                                                    <li>Yapıya doğal ve dekoratif bir görünüm kazandırır,</li>
-                                                    <li>Yapışma performansı çok yüksektir,</li>
-                                                    <li>Yapı kabuğunun mekanik mukavemetini arttırır,</li>
-                                                    <li>Üzerine direkt boya uygulanabilir,</li>
-                                                    <li>UV dayanımı yüksektir,</li>
-                                                    <li>Sıvada ki işçilik hatalarını gizler,</li>
-                                                    <li>Su itici özelliğe sahiptir.</li>
-                                                </ul>
-                                            <div class="divider"></div>
-                                                <ul>
-                                        
-                                                    <li>Yoğunluk : 1.55 kg/lt</li>
-                                                    <li>
-                                                        Su Karışım Oranı : 5,5.5 lt su
-                                                        25 kg Toz İçin</li>
-                                                    <li>
-                                                        Dinlendirme : 5</li>
-                                                    <li>
-                                                        Çalışma Süresi : 1,5–2 saat</li>
-                                                    <li>
-                                                        Kabuklaşma Süresi : 20 Dk</li>
-                                                    <li>
-                                                        Uygulama Zemin Sıcaklığı : +5<sup>o</sup> C,+30<sup>o</sup> C</li>
-                                                    <li>
-                                                        Çevre Zemin Sıcaklığı : +5 <sup>o</sup>C,+30 <sup>o</sup>C</li>
-                                                    <li>
-                                                        Uygulama Kalınlığı : 2 mm arası</li>
-                                                    
-                                                    <li>
-                                                    
-                                                        Su Aktarım Hızı: W=2,451 Kg</li>
-                                        
-                                                </ul>
-                                        
-                                        
-                                        
-                                            </div>
-                                        
-                                        
+                                        <div class="text" data-swiper-parallax="200">
+                                            <p style="color: black">İletişim ve satış için : 0282 692 60 20</p>
                                         </div>
-                                       
+
                                     </div>
-                                    <div class="text" data-swiper-parallax="200">
-                                        <p style="color: black">İletişim ve satış için : 0282 692 60 20</p>
-                                    </div>
-
                                 </div>
+                                <!-- Add Pagination -->
+                                <div class="swiper-pagination swiper-pagination-white"></div>
+                                <!-- Add Navigation -->
+                                <div class="swiper-button-prev swiper-button-white"></div>
+                                <div class="swiper-button-next swiper-button-white"></div>
                             </div>
-                            <!-- Add Pagination -->
-                            <div class="swiper-pagination swiper-pagination-white"></div>
-                            <!-- Add Navigation -->
-                            <div class="swiper-button-prev swiper-button-white"></div>
-                            <div class="swiper-button-next swiper-button-white"></div>
                         </div>
+
+
                     </div>
-
-
                 </div>
-            </div>
         </section>
 
         <section id="map" class="section section-dark pb-5">
@@ -2715,31 +2849,31 @@
                 </span>
             </div>
         </div>
-<section >
-    <div id="signiture" class="container-fluid d-none d-md-flex">
-        <div class="row">
-            <div class="s-1">
-                <img src="images/signiture-1.jpg" alt="" id="parallax-i-1" class="img-fluid">
+        <section>
+            <div id="signiture" class="container-fluid d-none d-md-flex">
+                <div class="row">
+                    <div class="s-1">
+                        <img src="images/signiture-1.jpg" alt="" id="parallax-i-1" class="img-fluid">
+                    </div>
+                    <div class="s-2">
+                        <img src="images/signiture-2.jpg" alt="" id="parallax-i-2" class="img-fluid">
+                    </div>
+                    <h3 class="handwriting signiture-text">
+                        HER HAKKI SAKLIDIR &#9400;
+                    </h3>
+
+                </div>
             </div>
-            <div class="s-2">
-                <img src="images/signiture-2.jpg" alt="" id="parallax-i-2" class="img-fluid">
+            <div id="signiture-m" class="d-block d-md-none">
+
+                <div class="s-2">
+                    <img src="images/signiture-2.jpg" alt="" id="parallax-i-2" class="img-fluid">
+                </div>
+                <h3 class="text-center mt-2">
+                    HER HAKKI SAKLIDIR &#9400;
+                </h3>
             </div>
-            <h3 class="handwriting signiture-text">
-                HER HAKKI SAKLIDIR &#9400;
-            </h3>
-          
-        </div>
-    </div>
-    <div id="signiture-m" class="d-block d-md-none">
-       
-        <div class="s-2">
-            <img src="images/signiture-2.jpg" alt="" id="parallax-i-2" class="img-fluid">
-        </div>
-        <h3 class="text-center mt-2">
-            HER HAKKI SAKLIDIR &#9400;
-        </h3>
-    </div>
-</section>
+        </section>
         <div class="pimg6">
             <div class="ptext">
                 <span class="border trans">
