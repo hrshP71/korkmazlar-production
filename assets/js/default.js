@@ -4262,7 +4262,7 @@ var sigNum = 0;
 $(window).scroll(function () {
   if ($('#map').next().offset().top < $(window).scrollTop()) {
     sigNum++;
-    console.log(sigNum)
+
     if (sigNum < 20) {
       $(sigImg.get(0)).css({
         'margin': (sigNum * 70),
@@ -4306,9 +4306,13 @@ const email = document.getElementById('email');
 const phone = document.getElementById('phone');
 const subject = document.getElementById('subject');
 const message = document.getElementById('message');
+const tSpan = document.getElementsByClassName('timer-span');
 var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 
 form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  tSpan[0].style.display = "block";
+  submit.addClass('.loading');
   let messages = []
   if (name.value === '' || name.value == null) {
     messages.push('İsminiz zorunludur')
@@ -4325,7 +4329,7 @@ form.addEventListener('submit', (e) => {
     messages.push('Konu zorunludur')
   }
 
-  if (messages.length > 0) {
+  if (message.length > 0) {
     e.preventDefault()
     errorElement.innerText = messages.join(', ')
   }
