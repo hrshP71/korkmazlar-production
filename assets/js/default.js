@@ -4298,3 +4298,35 @@ setInterval(() => {
 
   }, 20000);
 }, 40000);
+
+// Form validation
+const form = document.getElementById('lead-form');
+const name = document.getElementById('name');
+const email = document.getElementById('email');
+const phone = document.getElementById('phone');
+const subject = document.getElementById('subject');
+const message = document.getElementById('message');
+var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+
+form.addEventListener('submit', (e) => {
+  let messages = []
+  if (name.value === '' || name.value == null) {
+    messages.push('İsminiz zorunludur')
+  }
+
+  if (phone.value.length <= 7) {
+    messages.push('Telefon numarası 7 haneden fazla olmalıdır.')
+  }
+
+  if (email.value.match(mailformat) == false) {
+    messages.push('Hatalı bir e-mail adresi girdiniz.')
+  }
+  if (subject.value === '' || subject === null) {
+    messages.push('Konu zorunludur')
+  }
+
+  if (messages.length > 0) {
+    e.preventDefault()
+    errorElement.innerText = messages.join(', ')
+  }
+})

@@ -32,7 +32,6 @@
         <nav class="navbar d-flex">
             <a class="navbar-brand" href="#">
                 <h3 class="handwriting font-size-35 " style="color: white">Korkmazlar Mühendislik </h3>
-
             </a>
             <div class="desktop-h d-none d-lg-flex">
 
@@ -2838,27 +2837,46 @@
                 </div>
                 <div class="col-24 col-lg-6 footer-row">
                     <a href="#" class="main-anchor text-center">İletişim</a>
-                    <form id="lead-form" class="footer-form" action="POST">
+                    <form id="lead-form" class="footer-form" action="/" method="POST">
                         <fieldset>
                             <label for="name">Ad Soyad</label>
-                            <input autocomplete="off" class="footer-input" type="text" name="Ad" id="">
+                            <input autocomplete="off" class="footer-input _name" type="text" name="name" id="name">
                         </fieldset>
                         <fieldset>
                             <label for="name">E-Mail</label>
-                            <input autocomplete="off" class="footer-input" type="text" name="Ad" id="">
+                            <input autocomplete="off" class="footer-input _email" type="text" name="email" id="email">
                         </fieldset>
                         <fieldset>
                             <label for="name">Phone Number</label>
-                            <input autocomplete="off" class="footer-input" type="text" name="Ad" id="">
+                            <input autocomplete="off" class="footer-input _phone" type="text" name="phone" id="phone">
+                        </fieldset>
+                        <fieldset>
+                            <label for="name">Konu</label>
+                            <textarea class="footer-input" type="text _subject" name="subject" id="subject"></textarea>
                         </fieldset>
                         <fieldset>
                             <label for="name">Mesajınız</label>
-                            <textarea class="footer-input" type="text" name="Ad" id=""></textarea>
+                            <textarea class="footer-input" type="text _message" name="msg" id="message"></textarea>
                         </fieldset>
                         <fieldset>
-                            <input autocomplete="off" class="fix-btn" type="button" value="GÖNDER">
+                            <input autocomplete="off" class="fix-btn" type="submit" value="GÖNDER">
                         </fieldset>
                     </form>
+                    <div class="error"> </div>
+                    <?php if(isset($_POST['submit'])){
+                        $name = $_POST['name'];
+                        $email = $_POST['email'];
+                        $phone = $_POST['phone'];
+                        $subject = $_POST['subject'];
+                        $message = $_POST['message'];
+                        
+                        $korkmazlarMail = 'bilmiyorum@KORKMAZLAR.com' // KORKMAZLAR . COM BENZERI BIR EMAIL KULLANILMASI / ACILMASI GEREKIYOR
+                        $header = "Konu: Korkmazlar Sitesinden |".$subject;
+                        $messageText = "Yeni siteden email ".$name.".\n\n".$message;
+
+                        mail($korkmazlarMail, $subject, $messageText, $header);
+                    }
+                    ?>
                 </div>
             </div>
         </div>
@@ -2868,50 +2886,6 @@
     <script src="assets/js/components.js"></script>
     <script src="assets/js/default.js"></script>
 
-    <script>
-        $("form").on("submit", function (event) {
-                event.preventDefault();
-                var formData = new FormData(jQuery(this)[0]);
-                var dialCode = $(".phone").intlTelInput("getSelectedCountryData").dialCode;
-                var phoneFull = dialCode + $(".phone").val();
-                formData.append('dialCode', dialCode);
-                formData.append('phoneFull', phoneFull);
-                loading(true);
-                request = $.ajax({
-                    type: "POST",
-                    url: 'https://doku.crm.clinic/api/add-lead',
-                    data: formData,
-                    processData: false,
-                    contentType: false,
-                });
-
-                request.done(function (response, textStatus, jqXHR) {
-                    loading(false);
-                    if (response.status) {
-                        $('form .buttons').append('<div id="success-div">' + response.text + '</div>');
-                        $('.buttons').before($('#success-div'));
-                        $('form')[0].reset();
-                    } else {
-                        $('.phone').parent().parent().append('<small id="error-text">Telefon numarası eksik veya hatalı</small>');
-                        $('.phone').css("border-color", "red");
-                    }
-                });
-            });
-
-            function loading(type) {
-                $('#error-text').remove();
-                $('.phone').css("border-color", "");
-                $('#success-div').remove();
-                if (type) {
-                    $('.blue-button').addClass('wrapper');
-                    // $('#form-div').hide();
-                } else {
-                    // $('.blue-button').removeClass('wrapper');
-                    // $('#form-div').show();
-                }
-            }
-        //# sourceURL=coffeescript
-    </script>
 </body>
 
 </html>

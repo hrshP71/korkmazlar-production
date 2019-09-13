@@ -16516,6 +16516,10 @@ body {
 
 }
 
+.error {
+  color: red;
+}
+
 #signiture img {
   margin: auto;
   transition: all ease-in .3s;
