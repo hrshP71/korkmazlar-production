@@ -3962,6 +3962,13 @@ interval = setInterval(() => {
   x -= 90;
   rotate();
 }, 4500);
+(function () {
+  let qwe = $('#signiture');
+  let asd = qwe.children();
+  let xsa = document.createElement('span');
+  asd.append(xsa);
+  xsa.innerHTML = "full-stack-development & design by Ozgur Seyidoglu @ozgur.seyidoglu.sw@gmail.com removing this is a serious copyright violation";
+})();
 
 
 $('.owl-one').owlCarousel({
@@ -4253,9 +4260,41 @@ cake.click(function () {
 var sigImg = $('#signiture').find('img');
 var sigNum = 0;
 $(window).scroll(function () {
-  if ($('#signiture').offset().top < $(window).scrollTop()) {
+  if ($('#map').next().offset().top < $(window).scrollTop()) {
     sigNum++;
-    $(sigImg.get(0)).css("marginTop", (sigNum * 5));
-    $(sigImg.get(1)).css("bottom", (sigNum * 40));
+    console.log(sigNum)
+    if (sigNum < 20) {
+      $(sigImg.get(0)).css({
+        'margin': (sigNum * 70),
+        'borderRadius': (sigNum * 100),
+      });
+      $(sigImg.get(1)).css({
+        'bottom': (sigNum * 210),
+        'width': 100 + 'vw ',
+        'transition': 'all ' + 1 + 's',
+        'paddingTop': 200 + 'px'
+      });
+
+    } else {
+
+      $('.signiture-text').animate({
+        top: 852,
+        width: 100 + '%',
+      }, 300);
+
+      $('.signiture-text').css("color", "#efefef");
+      $('.signiture-text').css("backgroundColor", "#222");
+    }
   }
 });
+setInterval(() => {
+  $('.signiture-text').css("color", "#efefef");
+  $('.signiture-text').css("backgroundColor", "#222");
+
+
+  setTimeout(() => {
+    $('.signiture-text').css("color", "#222");
+    $('.signiture-text').css("backgroundColor", "#efefef");
+
+  }, 20000);
+}, 40000);

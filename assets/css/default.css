@@ -3425,6 +3425,7 @@ pre code {
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 
+
   .table-responsive-lg>.table-bordered {
     border: 0;
   }
@@ -3932,6 +3933,20 @@ select.form-control-lg:not([size]):not([multiple]),
 
 .form-inline .form-check {
   width: 100%;
+}
+
+.copy-verifier {
+  opacity: 0;
+  font-size: 11px;
+  color: #474747;
+  position: absolute;
+  right: 0;
+
+}
+
+#signiture-m {
+  border-top: 11px solid black;
+
 }
 
 @media (min-width: 576px) {
@@ -16312,6 +16327,11 @@ scroll = normal
     min-height: 200px;
   }
 
+  .card-wrapper.nd-row .font-face img.img-fluid {
+    position: initial;
+  }
+
+
   .ptext {
     transform: translateY(-50%);
   }
@@ -16486,11 +16506,14 @@ body {
 #signiture {
   display: block;
   width: 100%;
-  height: 1200px;
+  height: 898px;
   background-color: #222;
   position: relative;
   background-attachment: scroll;
   overflow: hidden;
+  border-top: 11px solid black;
+  scroll-behavior: smooth;
+
 }
 
 #signiture img {
@@ -16507,7 +16530,7 @@ body {
   text-align: center;
   position: absolute;
   left: 50%;
-  font-size: 50px;
+  font-size: 30px;
   transform: translateX(-50%);
   top: 17%;
 }

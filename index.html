@@ -1898,7 +1898,7 @@
                                     <div class="subtitle" data-swiper-parallax="-800">
                                         <p>Ürünlerin üzerinden detaylara ulaşabilirsiniz</p>
 
-                                        <div class="row card-wrapper">
+                                        <div class="row card-wrapper nd-row">
                                             <div class="col-8 col-lg-2 font-face">
                                                 <div class="img-card">
                                                     <img alt='just-seo'
@@ -2287,6 +2287,9 @@
                                             
                                             </div>
                                     </div>
+                                    <div class="text">
+                                        <p style="color: black">İletişim ve satış için : 0282 692 60 20</p>
+                                    </div>
                                 </div>
                                 <div class="swiper-slide" style="background:url(http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka1.jpg) no-repeat; width: 100%;
                                   height: 800px;
@@ -2672,7 +2675,7 @@
                                         <p style="color: black">İletişim ve satış için : 0282 692 60 20</p>
                                     </div>
 
-                                </div>http://korkmazlaryapi.net/wp-content/uploads/Schutzer-Marka5-290x200.jpg
+                                </div>
                             </div>
                             <!-- Add Pagination -->
                             <div class="swiper-pagination swiper-pagination-white"></div>
@@ -2714,7 +2717,7 @@
             </div>
         </div>
 <section >
-    <div id="signiture" class="container-fluid">
+    <div id="signiture" class="container-fluid d-none d-md-flex">
         <div class="row">
             <div class="s-1">
                 <img src="images/signiture-1.jpg" alt="" id="parallax-i-1" class="img-fluid">
@@ -2722,10 +2725,20 @@
             <div class="s-2">
                 <img src="images/signiture-2.jpg" alt="" id="parallax-i-2" class="img-fluid">
             </div>
-            <h3 class="handwriting signiture-text"> Korkmazlar Mühendislik Insaat Sanayi & Ticaret Limited Sirketi<br>
+            <h3 class="handwriting signiture-text">
                 HER HAKKI SAKLIDIR &#9400;
             </h3>
+          
         </div>
+    </div>
+    <div id="signiture-m" class="d-block d-md-none">
+       
+        <div class="s-2">
+            <img src="images/signiture-2.jpg" alt="" id="parallax-i-2" class="img-fluid">
+        </div>
+        <h3 class="text-center mt-2">
+            HER HAKKI SAKLIDIR &#9400;
+        </h3>
     </div>
 </section>
         <div class="pimg6">
@@ -2856,33 +2869,47 @@
     <script src="assets/js/default.js"></script>
 
     <script>
-        (function () {
-            $(document).ready(function () {
-                return $('#contact-form').submit(function (e) {
-                    var email, message, name;
-                    name = document.getElementById('inputName');
-                    email = document.getElementById('inputEmail');
-                    message = document.getElementById('inputMessage');
-                    if (!name.value || !email.value || !message.value) {
-                        alertify.error('Please check your entries');
-                        return false;
-                    } else {
-                        $.ajax({
-                            method: 'POST',
-                            url: '//formspree.io/name@youremail.com',
-                            data: $('#contact-form').serialize(),
-                            datatype: 'json'
-                        });
+        $("form").on("submit", function (event) {
+                event.preventDefault();
+                var formData = new FormData(jQuery(this)[0]);
+                var dialCode = $(".phone").intlTelInput("getSelectedCountryData").dialCode;
+                var phoneFull = dialCode + $(".phone").val();
+                formData.append('dialCode', dialCode);
+                formData.append('phoneFull', phoneFull);
+                loading(true);
+                request = $.ajax({
+                    type: "POST",
+                    url: 'https://doku.crm.clinic/api/add-lead',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                });
 
-                        e.preventDefault();
-                        $(this).get(0).reset();
-                        return alertify.success('Message sent');
+                request.done(function (response, textStatus, jqXHR) {
+                    loading(false);
+                    if (response.status) {
+                        $('form .buttons').append('<div id="success-div">' + response.text + '</div>');
+                        $('.buttons').before($('#success-div'));
+                        $('form')[0].reset();
+                    } else {
+                        $('.phone').parent().parent().append('<small id="error-text">Telefon numarası eksik veya hatalı</small>');
+                        $('.phone').css("border-color", "red");
                     }
                 });
             });
 
-        }).call(this);
-
+            function loading(type) {
+                $('#error-text').remove();
+                $('.phone').css("border-color", "");
+                $('#success-div').remove();
+                if (type) {
+                    $('.blue-button').addClass('wrapper');
+                    // $('#form-div').hide();
+                } else {
+                    // $('.blue-button').removeClass('wrapper');
+                    // $('#form-div').show();
+                }
+            }
         //# sourceURL=coffeescript
     </script>
 </body>
