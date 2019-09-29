@@ -4332,6 +4332,9 @@ form.addEventListener('submit', (e) => {
     if (message.length > 0) {
         e.preventDefault()
         errorElement.innerText = messages.join(', ')
+    } else {
+        tSpan[0].style.display = "none";
+        submit.removeClass('.loading');
     }
 })
 
