@@ -103,7 +103,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="#desc " class="arr-container ">
+                    <a href="#desc" class="arr-container ">
 
                         <div class="chevron "></div>
                         <div class="chevron "></div>
@@ -113,7 +113,7 @@
             </div>
             </div>
         </section>
-        <div id="desc " class="pimg1 ">
+        <div id="desc" class="pimg1 ">
             <div class="ptext ">
                 <span class="border trans ">
                     Hizmetlerimiz
@@ -121,7 +121,7 @@
             </div>
         </div>
 
-        <section id="hizmetlerimiz " class="section section-dark ">
+        <section id="hizmetlerimiz" class="section section-dark ">
             <h2> Korkmazlar Mühendislik İnşaat ve Sanayi Olarak Her Çapta Projeye İstenilen Kadar Ürün Temin Etmekte ve
                 Uygulamasını Yapmaktayız …</h2>
             <ul>
@@ -155,7 +155,7 @@
             </div>
         </div>
 
-        <section id="tecrubelerimiz " class="section section-light ">
+        <section id="tecrubelerimiz" class="section section-light ">
 
             <p>
                 Korkmazlar, Korkmazlar Mühendislik İnşaat ve Sanayi, çorlu inşaat firmaları, inşaat şirketleri, büyük
@@ -186,7 +186,7 @@
             </div>
         </div>
 
-        <section id="urunlerimiz " class="section section-light ">
+        <section id="urunlerimiz" class="section section-light ">
             <div class="container ">
                 <div class="row ">
                     <div class="col-24 col-lg-12 ">
@@ -332,7 +332,7 @@
 
         </div>
 
-        <section id="cube " class="enterence ">
+        <section id="cube" class="enterence ">
 
                             <div class=" container-fluid">
                                 <div class="row">
