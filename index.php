@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css?family=Eczar:500,600,700|Lobster&display=swap&subset=latin-ext" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/css/components.css">
-    <link href="assets/css/default.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/default.css">
     <link rel="stylesheet" href="assets/js/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
     <link rel="stylesheet" href="assets/js/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css">
 
