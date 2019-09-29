@@ -3556,7 +3556,12 @@ select.form-control-lg:not([size]):not([multiple]),
 }
 
 #signiture-m {
+    position: relative;
     border-top: 11px solid black;
+}
+
+#signiture-m .s-2 {
+    position: initial;
 }
 
 @media (min-width: 576px) {
