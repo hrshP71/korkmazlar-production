@@ -14595,19 +14595,19 @@ li a:hover::after {
     bottom: 0;
     color: black;
     transition: ease-out all .3s;
-    transform: rotateZ(2deg);
+    transform: rotateZ(1deg);
 }
 
 .nav-anchor.services {
     width: 250px;
     margin-bottom: 20px;
     color: #efefef;
-    transform: rotateZ(2deg);
+    transform: rotateZ(1deg);
 }
 
 .nav-anchor.services:hover {
-    width: 330px;
-    transform: translateX(-43%) rotateZ(-2deg);
+    width: 350px;
+    transform: translateX(-43%) rotateZ(-1deg);
 }
 
 .close-btn {
@@ -14672,7 +14672,7 @@ ul {
     color: inherit;
     text-decoration: none;
     font-size: 17px;
-    transform: translateX(-45%) rotateZ(-2deg);
+    transform: translateX(-45%) rotateZ(-1deg);
 }
 
 .banner-title {
