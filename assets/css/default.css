@@ -14599,7 +14599,7 @@ li a:hover::after {
     position: relative;
     display: flex;
     justify-content: center;
-    width: 150px;
+    width: 180px;
     left: 44%;
     bottom: 0;
     position: absolute;
@@ -14683,7 +14683,7 @@ ul {
     color: inherit;
     text-decoration: none;
     font-size: 17px;
-    transform: translateX(-45%) rotateZ(-1deg);
+    transform: translateX(-5%) rotateZ(-1deg);
 }
 
 .banner-title {
@@ -15377,11 +15377,23 @@ Demo purposes only
     }
     .nav-anchor.services {
         left: 50%;
+        width: 240px;
         transform: translateX(-50%);
     }
     .nav-anchor {
         left: 50%;
+        width: 240px;
         transform: translateX(-50%);
+    }
+    .nav-anchor:hover {
+        left: 50%;
+        width: 265px;
+        transform: translateX(-55%) rotateZ(-2deg);
+    }
+    .nav-anchor.services:hover {
+        left: 50%;
+        width: 265px;
+        transform: translateX(-55%) rotateZ(-2deg);
     }
     ul>li:first-child {
         margin-top: 35px;
