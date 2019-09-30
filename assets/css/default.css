@@ -14617,8 +14617,8 @@ li a:hover::after {
 }
 
 .nav-anchor.services:hover {
-    width: 350px;
-    transform: translateX(-43%) rotateZ(-1deg);
+    width: 270px;
+    transform: translateX(-5%) rotateZ(-1deg);
 }
 
 .close-btn {
